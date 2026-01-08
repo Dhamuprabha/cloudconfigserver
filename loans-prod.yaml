@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: loans
+    version: v1_0_0
+    base-path: "/microservice/loans/"
+  config:
+    activate:
+      on-profile: "prod"
+custom:
+  config:
+    application:
+      info:
+        owner: Dhamu
+        contact: "62302742"
+        company: UST
+        env: Prod
+        contacts:
+          - 245432
+          - 455432
+server:
+  port: 8081

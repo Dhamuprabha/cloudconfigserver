@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: cards
+    version: v1_0_0
+    base-path: "microservice/cards/"
+  config:
+    activate:
+      on-profile: "qa"
+custom:
+  config:
+    application:
+      info:
+        owner: Dhamu
+        contact: "62302742"
+        company: UST
+        env: Test
+        contacts:
+          - 45434543
+          - 45454565
