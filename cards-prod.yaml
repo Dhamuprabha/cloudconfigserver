@@ -13,7 +13,7 @@ custom:
         owner: Dhamu
         contact: "62302742"
         company: UST
-        env: Prodbus
+        env: Prod
         contacts:
           - 45434543
           - 45454565
