@@ -5,7 +5,7 @@ application:
   base-path: "microservice/cards/"
 config:
   activate:
-    on-profile: "prodbus1"
+    on-profile: "prod"
 custom:
   config:
     application:
@@ -13,7 +13,7 @@ custom:
         owner: Dhamu
         contact: "62302742"
         company: UST
-        env: Prod
+        env: Prodbus1
         contacts:
           - 45434543
           - 45454565
