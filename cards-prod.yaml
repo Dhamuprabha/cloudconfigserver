@@ -5,7 +5,7 @@ application:
   base-path: "microservice/cards/"
 config:
   activate:
-    on-profile: "prod"
+    on-profile: "prodbus1"
 custom:
   config:
     application:
